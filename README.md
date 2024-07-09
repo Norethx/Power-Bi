@@ -16,3 +16,5 @@ Power BI - Web Scraping e tratamento de dados link: https://app.powerbi.com/view
 Power BI Desktop - tratamento de dados no Power Query link: https://app.powerbi.com/view?r=eyJrIjoiMjBlZGE4ODYtZjM3Mi00MDFhLWI3NzEtYjQxZGZiMDgyMjY3IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 Power BI explorando recursos visuais link: https://app.powerbi.com/view?r=eyJrIjoiYTRlYzQwMTgtMmYyMy00ZjNhLWFhNGYtZjM3YmE3MjkyYmVlIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+Analise sobre entradas de estrangeiros (Dados Abertos): https://abrir.link/DeMRi
